@@ -5,6 +5,8 @@
  */
 package aadp_lab_soccersimulator;
 
+import java.util.Scanner;
+
 /**
  *
  * @author dacsa
@@ -19,7 +21,7 @@ public class AddPlayer {
         System.out.println("3. Simulate a number of matches.");
         System.out.println("4. Exit the programme.");
         
-        
+        Scanner myScanner = new Scanner(System.in);
         
         
         
